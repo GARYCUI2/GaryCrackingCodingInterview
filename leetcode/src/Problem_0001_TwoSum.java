@@ -1,5 +1,3 @@
-package toplikedquestions;
-
 import java.util.HashMap;
 
 public class Problem_0001_TwoSum {
